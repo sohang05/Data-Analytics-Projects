@@ -9,3 +9,9 @@ For this project we will be cleaning the data of all the anomalies as a part of 
 5. Deleting duplicate emails from **email** column.
 6. Updating the **Membership_date** column.
 7. Checking for empty columns.
+
+Let's take a look at the data:-
+
+ 'code()'
+ SELECT * FROM club 
+ LIMIT 15;
