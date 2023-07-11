@@ -12,6 +12,7 @@ For this project we will be cleaning the data of all the anomalies as a part of 
 
 Let's take a look at the data:-
 
- 'code()'
+ ```sql
  SELECT * FROM club 
  LIMIT 15;
+```
