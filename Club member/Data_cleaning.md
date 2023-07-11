@@ -10,9 +10,3 @@ For this project we will be cleaning the data of all the anomalies as a part of 
 6. Updating the **Membership_date** column.
 7. Checking for empty columns.
 
-Let's take a look at the data:-
-
- ```sql
- SELECT * FROM club 
- LIMIT 15;
-```
