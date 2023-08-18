@@ -4,11 +4,11 @@
 ### Hi there 👋,I am Sohan 
 ####  A passionate individual aspiring to be a Data Analyst.
 
-I have made some projects that will help me improve my skills and knowledge and hopefully land a job.
+I have made some projects that will help me improve my skills and knowledge.
 
 Skills: Python, SQL, MySQL, Microsoft SQL Server, Power Bi
 
-- 🔭 I’m currently working on projects. 
+- 🔭 I’m currently looking for a job.
 - 🌱 I’m currently learning skills related to Data Analyst domain. 
 - 📫 How to reach me: sohan02official@gmail.com 
 
