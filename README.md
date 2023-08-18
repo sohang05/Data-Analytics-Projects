@@ -1,7 +1,6 @@
 [![MasterHead](file:///C:/Users/sohan/Downloads/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)]
 <h1 align="center">Hi 👋, I'm Sohan</h1>
 <h3 align="center">A passionate individual aspiring to be a Data Analyst.</h3>
-<img align="right" alt="Coding" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvHYt1tGD3h3Y6O-Xh7wnvGwWYeU41arCvBA&usqp=CAU](https://i.pinimg.com/originals/e0/41/82/e04182f6094f2764001c1df50b6a2971.gif)"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohang05&label=Profile%20views&color=0e75b6&style=flat" alt="sohang05" /> </p>
 
