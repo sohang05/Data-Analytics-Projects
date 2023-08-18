@@ -1,6 +1,8 @@
+![Banner](https://github.com/sohang05/Portfolio-Projects/assets/73344291/9ba01c2b-e6ef-4227-8308-cb0e02332b50)
+
+
 ### Hi there 👋,I am Sohan 
 ####  A passionate individual aspiring to be a Data Analyst.
-![ A passionate individual aspiring to be a Data Analyst.](https://github.com/sohang05/Portfolio-Projects/blob/main/Banner.jpg)
 
 I have made some projects that will help me improve my skills and knowledge and hopefully land a job.
 
