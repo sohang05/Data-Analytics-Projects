@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Sohan 
 ####  A passionate individual aspiring to be a Data Analyst.
-![ A passionate individual aspiring to be a Data Analyst.][(file:///C:/Users/sohan/Downloads/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)](https://github.com/sohang05/Portfolio-Projects/blob/main/Banner.jpg)
+![ A passionate individual aspiring to be a Data Analyst.](https://github.com/sohang05/Portfolio-Projects/blob/main/Banner.jpg)
 
 I have made some projects that will help me improve my skills and knowledge and hopefully land a job.
 
