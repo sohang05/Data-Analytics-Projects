@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Sohan 
+### Hi there 👋,I am Sohan 
 ####  A passionate individual aspiring to be a Data Analyst.
 ![ A passionate individual aspiring to be a Data Analyst.](https://github.com/sohang05/Portfolio-Projects/blob/main/Banner.jpg)
 
