@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohang05&label=Profile%20views&color=0e75b6&style=flat" alt="sohang05" /> </p>
 
 - 🌱 I’m currently learning **skills related to Data Analytics domain.**
-- 🔭 I’m currently looking for a job.
+- 🔭 I’m currently working on projects honing my skills so that I can land a job.
 
 - 📫 How to reach me **sohan02official@gmail.com**
 
