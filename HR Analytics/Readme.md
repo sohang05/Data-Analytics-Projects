@@ -1,10 +1,16 @@
-# HR POWER BI DASHBOARD
+# HR Analytics Power BI Dashboard Project
 
-This is a Power Bi project that gives insights about :- 
-* Total number of employees that work in a company.
-* Number of employees that have resigned.
-* Number of employees by different job roles and department in the same company.
-* Number of employees by age groups.
-* The performance rating of the employees.
-* Total employees based on genders.
-* Total number of years that a employee has been working.
+## Overview
+The HR Analytics Power BI Dashboard is a comprehensive visualization project aimed at providing valuable insights into human resources data. Leveraging the power of Power BI, this project offers a user-friendly interface to analyze various HR metrics, enabling data-driven decision-making for HR professionals and organizational leaders.
+
+# Features
+
+* Multi-Dimensional Analysis: The dashboard allows for in-depth exploration of HR data across various dimensions such as employee demographics, performance metrics, and engagement levels.
+
+* Dynamic Filters: Users can dynamically filter and slice the data based on different criteria including department, location, and tenure, enabling customized views of the workforce.
+
+* Key Performance Indicators (KPIs): The project includes a set of carefully selected KPIs to provide quick, at-a-glance insights into critical HR metrics such as turnover rate, employee satisfaction, and performance ratings.
+
+* Trend Analysis: Utilizing time-based data, the dashboard presents trends and patterns in HR metrics over different time periods, facilitating historical analysis and forecasting.
+
+* Comparative Analytics: Users can compare performance and demographic metrics between different groups, aiding in identifying disparities and opportunities for improvement.
