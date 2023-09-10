@@ -11,7 +11,7 @@ In today's fast-paced world, understanding customer preferences and optimizing o
 * **Geographical Distribution**: Visualize sales performance by region to identify potential growth areas.
 * **Inventory Management**: Monitor stock levels and popular products to optimize supply chain.
 
-###Dashboard Components
+### Dashboard Components
 
 * **Sales Overview**: An overview of total sales, revenue trends, and key performance indicators.
 * **Customer Insights**: Demographic information, buying behavior, and customer segmentation.
