@@ -1,4 +1,22 @@
-# SHARK TANK - BI DASHBOARD 
+# Shark Tank India Power BI Dashboard
 
-This is an interactive Dashboard created using Power BI Desktop on Season 1 of SHARK TANK INDIA. This dashboard gives an insight which helps in understanding the number of pitches that were made during season 1 as well as some key parameters like the Total amount that was invested by the sharks, Highest investment received by a company and etc by different companies of various domains.
+## Overview
+Welcome to the Shark Tank India Power BI Dashboard project! This repository contains a comprehensive data visualization dashboard created using Microsoft Power BI, showcasing insights from episodes of Shark Tank India.
 
+## About Shark Tank India :-
+Shark Tank India is a popular television series where aspiring entrepreneurs pitch their business ideas to a panel of seasoned investors, known as "Sharks". The Sharks then decide whether to invest in the presented business ventures.
+
+## Project Objective
+The primary objective of this Power BI Dashboard is to provide a visually engaging and informative representation of various aspects of the pitches and investments made in Shark Tank India episodes. The dashboard offers insights into:
+
+* Pitch success rates
+* Investment trends
+* Shark preferences
+* Business categories featured
+
+## Features : -
+
+* Dynamic Visualizations: Interactive charts and graphs that allow users to explore data based on various filters and parameters.
+* Data Aggregation: Aggregates data from multiple episodes to provide a holistic view of the Shark Tank India series.
+* Trend Analysis: Tracks the progression of successful pitches and investments over time.
+* Investor Preferences: Highlights which Sharks are more likely to invest in specific business categories.
