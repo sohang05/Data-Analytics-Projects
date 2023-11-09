@@ -14,3 +14,6 @@ This Power BI project focuses on analyzing the retail supply chain and sales dat
 * Which ship mode had the lowest/highest return rate?
 * Which top 5 customers made the most profit?
 
+## Below is a preview of the dashboard:
+
+![Retail Sales Analysis_page-0001](https://github.com/sohang05/Portfolio-Projects/assets/73344291/3c1efcf0-081d-405e-a727-ee717a9e01a7)
