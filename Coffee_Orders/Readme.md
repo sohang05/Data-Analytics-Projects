@@ -18,6 +18,10 @@ In today's fast-paced world, understanding customer preferences and optimizing o
 * **Geographical Analysis**: Sales performance mapped by region for targeted marketing efforts.
 * **Product Performance**: Details on best-selling products and inventory management.
 
+### Below is a preview of the dashboard:
+
+![Coffee Orders_page-0002 (1)](https://github.com/sohang05/Portfolio-Projects/assets/73344291/1e3ae7e4-64b4-4528-a3e0-96fa33fec1b0)
+
 
 
 
