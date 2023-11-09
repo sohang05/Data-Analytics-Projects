@@ -25,4 +25,6 @@ The primary objective of this Power BI Dashboard is to provide a visually engagi
 
 ![Shark Tank Analysis_page-0001](https://github.com/sohang05/Portfolio-Projects/assets/73344291/b397d8d5-bd4c-4aa0-ae76-350b91940960)
 
+![Shark Tank Analysis_page-0002](https://github.com/sohang05/Portfolio-Projects/assets/73344291/0963ad61-e276-4bd4-aab5-c84135459a7a)
+
 
