@@ -17,3 +17,5 @@ This Power BI project focuses on analyzing the retail supply chain and sales dat
 ## Below is a preview of the dashboard:
 
 ![Retail Sales Analysis_page-0001](https://github.com/sohang05/Portfolio-Projects/assets/73344291/3c1efcf0-081d-405e-a727-ee717a9e01a7)
+
+![Retail Sales Analysis_page-0002](https://github.com/sohang05/Portfolio-Projects/assets/73344291/dec2392b-0861-461f-a8d8-3009b3d7eadc)
