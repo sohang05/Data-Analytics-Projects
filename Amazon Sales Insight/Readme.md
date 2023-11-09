@@ -11,4 +11,4 @@ We have a dataset on Food Category Sales by Amazon.Using this dataset we will fi
   
 ## Below is a preview of the dashboard:
 
-![HR Analytics Dashboard_page-0001](https://github.com/sohang05/Portfolio-Projects/assets/73344291/ea188bd8-6417-4e5c-a43a-87eb2c05bfb5)
+![Amazon Dashboard_page-0001 (1)](https://github.com/sohang05/Portfolio-Projects/assets/73344291/d19c3f94-7e00-45b1-8c63-3f3b43fdb525)
