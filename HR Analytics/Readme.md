@@ -17,4 +17,6 @@ The HR Analytics Power BI Dashboard is a comprehensive visualization project aim
 
 # Below is a preview of the dashboard:
 
-![page1 (3)](https://github.com/sohang05/Portfolio-Projects/assets/73344291/5a29b274-d2f5-4146-9380-0cafaf427c36)
+![page1 (3)](https://github.com/sohang05/Portfolio-Projects/assets/73344291/d1708371-e9b6-49ef-bb8f-1181adb0c2b2)
+
+
