@@ -23,4 +23,4 @@ The primary objective of this Power BI Dashboard is to provide a visually engagi
 
 ## This is a screenshot for the dashboard:
 
-![Alt text]("file:///C:/Users/sohan/Downloads/Shark-Tank-Analysis/Shark%20Tank%20Analysis_page-0001.jpg")
+
