@@ -20,3 +20,7 @@ The primary objective of this Power BI Dashboard is to provide a visually engagi
 * Data Aggregation: Aggregates data from multiple episodes to provide a holistic view of the Shark Tank India series.
 * Trend Analysis: Tracks the progression of successful pitches and investments over time.
 * Investor Preferences: Highlights which Sharks are more likely to invest in specific business categories.
+
+## This is a screenshot for the dashboard:
+
+![Alt text]("file:///C:/Users/sohan/Downloads/Shark-Tank-Analysis/Shark%20Tank%20Analysis_page-0001.jpg")
