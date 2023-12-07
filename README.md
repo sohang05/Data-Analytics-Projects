@@ -30,7 +30,7 @@ I'm a recent graduate with a degree in B.E Mechanical Engineering. I'm passionat
 ## Get in Touch
 I'm eager to connect with fellow data enthusiasts, professionals, and potential collaborators. Feel free to reach out to me through LinkedIn or :
 - 📫 Email - **sohan02official@gmail.com**
-- Novyprolink - **https://www.novypro.com/profile_projects/sohangurav**
+- [Novyprolink]- (https://www.novypro.com/profile_projects/sohangurav)
   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sohan-gurav-b8789b1a5/)  
 
