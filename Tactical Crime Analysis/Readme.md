@@ -14,3 +14,7 @@ As part of FP20 Analytics Challenge 11, I have built a Tactical Crime Analysis R
 
  The majority of analyzed crimes took place in 2022, indicating a potential temporal trend demanding attention. 📊🔍📈
 
+### Below is a preview of the report:
+
+![Tactical Crime Analysis (1)_page-0001](https://github.com/sohang05/Portfolio-Projects/assets/73344291/e9fa9a69-64b7-4f7d-8316-36147afb86da)
+
