@@ -17,4 +17,5 @@ As part of FP20 Analytics Challenge 11, I have built a Tactical Crime Analysis R
 ### Below is a preview of the report:
 
 ![Tactical Crime Analysis (1)_page-0001](https://github.com/sohang05/Portfolio-Projects/assets/73344291/e9fa9a69-64b7-4f7d-8316-36147afb86da)
+![Screenshot 2023-12-06 213122](https://github.com/sohang05/Portfolio-Projects/assets/73344291/b301fd59-0f7b-4190-8574-8b2af8bfd8db)
 
