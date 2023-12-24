@@ -1,32 +1,33 @@
 ```SQL
 CREATE DATABASE club_members;
-
 USE club_members;
 ```
 
 ### To view the table
 
-```
+```SQL
 SELECT * FROM club;
 ```
 ### Since an 'Id' column is missing we add an Id Column in the table......................
 
-```
+```SQL
 Alter Table club
 Add Id Int Identity(1,1);
 ```
 
 ### The column contains some names in lower case and some in upper case.So, CAPITALISING first letter of full_name and updating it.
 
-```
+```SQL
 DECLARE @value VARCHAR(50)
 SET @value = 'small'
 SELECT UPPER(LEFT(@value, 1)) + SUBSTRING(@value, 2, LEN(@value));
-
+```
+```SQL
 SELECT full_name, UPPER(LEFT(full_name, 1)) + SUBSTRING(full_name, 2, LEN(full_name)) AS FullName
 FROM club
 ;
-
+```
+```SQL
 UPDATE club SET full_name = UPPER(LEFT(full_name, 1)) + SUBSTRING(full_name, 2, LEN(full_name))
 FROM club;
 
@@ -34,7 +35,7 @@ FROM club;
 
 ### Removing and Updating whitespaces in full_name column
 
-```
+```SQL
 UPDATE club
 SET 
 full_name = LTRIM(full_name);
@@ -42,21 +43,21 @@ full_name = LTRIM(full_name);
 
 ### Removing special characters from column and updating it..........
 
-```
+```SQL
 UPDATE club
 SET full_name = REPLACE(full_name,'???','')
 WHERE full_name = full_name;
 ```
 ### Converting all upper case and lower case full_names to proper case/title case......
 
-```
+```SQL
 UPDATE club
  SET full_name = UPPER(LEFT(full_name,1)) + LOWER(RIGHT(full_name, LEN(full_name) - 1));
 ```
 
 ### In Age column some ages have three digit at the end............
 
-```
+```SQL
 UPDATE club
 set age = 
 	CASE
@@ -67,7 +68,7 @@ set age =
 ```
 ### Verifying if there are any 3 digit number in the Age column.....
 
-```
+```SQL
 SELECT age FROM club
 WHERE age > 99;
 
