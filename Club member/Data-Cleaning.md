@@ -1,4 +1,4 @@
-```
+```SQL
 CREATE DATABASE club_members;
 
 USE club_members;
