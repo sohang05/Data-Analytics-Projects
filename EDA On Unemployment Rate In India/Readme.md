@@ -1,3 +1,12 @@
 # EDA On Unemployment Rate In India
 
-[Open Jupyter Notebook](https://nbviewer.org/github/sohang05/Portfolio-Projects/blob/main/EDA%20On%20Unemployment%20Rate%20In%20India/Unemployment%20Rate%20In%20India%20.ipynb)
+## INTRODUCTION
+
+In data analysis, Exploratory Data Analysis (EDA) is an approach to analyzing datasets to summarize their main characteristics, often with visual methods. EDA is used for seeing what the data can tell us before the modeling task. It is not easy to look at a column of numbers or a whole spreadsheet and determine important characteristics of the data. It may be tedious, boring, and/or overwhelming to derive insights by looking at plain numbers. Exploratory data analysis techniques have been devised as an aid in this situation.
+
+Exploratory data analysis is generally cross-classified in two ways. First, each method is either non-graphical or graphical. And second, each method is either univariate or multivariate (usually just bivariate).
+
+### Following are the steps that I followed while performing EDA:-
+
+Step 1 : **Data Gathering and Cleaning**
+The dataset contains of 9 columns and 129 rows. Here you can preview the dataset.
