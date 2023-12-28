@@ -6,7 +6,9 @@ In data analysis, Exploratory Data Analysis (EDA) is an approach to analyzing da
 
 Exploratory data analysis is generally cross-classified in two ways. First, each method is either non-graphical or graphical. And second, each method is either univariate or multivariate (usually just bivariate).
 
-### Following are the steps that I followed while performing EDA:-
+## INSIGHTS
 
-Step 1 : **Data Gathering and Cleaning**
-The dataset contains of 9 columns and 129 rows. Here you can preview the dataset.
+Uttar Pradesh has highest employment rate contradicting to Sikkim which has lowest.
+On the other hand, the Northern region has highest unemployment rate and Western, along-with Northeastern part has lowest rate of unemployment.
+
+
