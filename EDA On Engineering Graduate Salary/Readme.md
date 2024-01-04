@@ -18,11 +18,11 @@ A relevant question is what determines the salary and the jobs these engineers a
 
 **Data Description**
 
-ID: A unique ID to identify a candidate
-Salary: Annual CTC offered to the candidate (in INR)
-Gender: Candidate's gender
-DOB: Date of birth of the candidate
-10percentage: Overall marks obtained in grade 10 examinations
+* ID: A unique ID to identify a candidate
+* Salary: Annual CTC offered to the candidate (in INR)
+* Gender: Candidate's gender
+* DOB: Date of birth of the candidate
+* 10percentage: Overall marks obtained in grade 10 examinations
 10board: The school board whose curriculum the candidate followed in grade 10
 12graduation: Year of graduation - senior year high school
 12percentage: Overall marks obtained in grade 12 examinations
