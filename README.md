@@ -23,9 +23,9 @@ I'm a recent graduate with a degree in B.E Mechanical Engineering. I'm passionat
 
 * Explore Projects: Start by browsing through my projects. Each project is accompanied by a detailed README providing context, methodology, and insights gained.
 
-* Review My Skills: Take a look at the list of skills I've acquired. I've included proficiency levels and relevant projects where these skills were applied.
+* Review My Skills: Take a look at the list of skills I've acquired while working on these projects.
 
-* Follow My Journey: Dive into my learning journey where I share resources, articles, and tutorials that have been instrumental in my development as a data analyst.
+* Follow My Journey: Dive into my learning journey where I share resources that have been instrumental in my development as a data analyst.
 
 ## Get in Touch
 I'm eager to connect with fellow data enthusiasts, professionals, and potential collaborators. Feel free to reach out to me through LinkedIn or :
