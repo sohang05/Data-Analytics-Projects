@@ -31,8 +31,7 @@ I'm a recent graduate with a degree in B.E Mechanical Engineering. I'm passionat
 I'm eager to connect with fellow data enthusiasts, professionals, and potential collaborators. Feel free to reach out to me through LinkedIn or :
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - **sohan02official@gmail.com**
 - Novyprolink- (https://www.novypro.com/profile_projects/sohangurav)
-  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sohan-gurav-b8789b1a5/)  
+- ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/sohan-gurav-b8789b1a5/)  
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
 
