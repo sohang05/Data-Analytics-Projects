@@ -33,8 +33,6 @@ I'm eager to connect with fellow data enthusiasts, professionals, and potential 
 - Novyprolink- (https://www.novypro.com/profile_projects/sohangurav)
 - ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)- (https://www.linkedin.com/in/sohan-gurav-b8789b1a5/)  
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username={sohang05}&theme=blue-green)
-
 
 ## LANGUAGES & TOOLS :- 
 
