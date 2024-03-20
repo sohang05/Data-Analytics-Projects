@@ -1,1 +1,13 @@
+# STUDENT PLACEMENT ANALYSIS
 
+## Overview
+This repository contains the Student Placement Analysis Report generated using Google Data Studio. The report provides valuable insights and visualizations regarding the placement trends and outcomes for students based on various parameters.
+
+## Purpose
+The purpose of this report is to analyze and present data related to student placements, including placement rates, industry-wise placements, salary distributions, and other relevant metrics. The insights derived from this report can help educational institutions, students, and recruiters make informed decisions and strategies.
+
+## Key Features
+
+* Placement Rates: Visualizations depicting the overall placement rates.
+* Industry-wise Placements: Charts showing the distribution of placements across different industries.
+* Salary Analysis: Comparative analysis of salaries offered in different sectors and roles,etc.
