@@ -70,6 +70,7 @@ Group By (Age)
 Order By Orders DESC
 ;
 ```
+![page6](https://github.com/sohang05/Portfolio-Projects/assets/73344291/1986b74f-c74a-4b38-9b6f-ce9c896853be)
 
 
 **Year wise sales analysis**
@@ -93,6 +94,9 @@ Year	|Sales	|Profit|
 
 *Year 2017 and 2016 are the most profitable years while 2014 is the least profitable*
 
+![page5 (2)](https://github.com/sohang05/Portfolio-Projects/assets/73344291/c053f34a-da17-44bf-a036-ea9485459aed)
+![page5 (3)](https://github.com/sohang05/Portfolio-Projects/assets/73344291/4f97830c-d1a2-470d-9b42-8331a3908f5b)
+
 
 **Geographical Sales analysis**
 ```sql
@@ -106,7 +110,7 @@ Order By Orders DESC
 ;
 ```
 
-
+![page1](https://github.com/sohang05/Portfolio-Projects/assets/73344291/e3397c4c-73b0-42bd-8ac7-580c986b4134)
 
 ```sql
 Select [Region], round(sum(sales),2) as Sales, count([Order ID]) as Orders
@@ -119,6 +123,7 @@ Order By Orders DESC
 ;
 ```
 
+![page2](https://github.com/sohang05/Portfolio-Projects/assets/73344291/0babc216-e5e0-4fb6-ac44-239320731cc3)
 
 **Customer with most orders**
 
@@ -133,6 +138,8 @@ Order By Orders DESC
 ;
 ```
 
+![page3](https://github.com/sohang05/Portfolio-Projects/assets/73344291/0deeb052-e38c-4aa3-9f34-1f32d7544da3)
+
 **Average Days required to ship a product**
 ```sql
 Select [City],
@@ -144,8 +151,9 @@ customer_data.[Customer ID] = sales_data.[Customer ID]
 Group By [City]
 Order By days_for_product_delivery ASC;
 ```
+*Minimum average days required to deliver a product is 0 days i.e the product is delivered on the same day*
 
-**Most Popular shipping mode among customers**
+**Most Popular shipping mode among customers and average delivery days required**
 ```sql
 Select [Ship Mode],
 AVG(DATEDIFF(DAY,[Order Date],[Ship Date])) as avg_days_for_product_delivery
@@ -156,7 +164,14 @@ customer_data.[Customer ID] = sales_data.[Customer ID]
 Group By [Ship Mode]
 Order By avg_days_for_product_delivery ASC;
 ```
+Ship Mode|	avg_days_for_product_delivery|
+----------|------------------------------|
+Same Day	|0|
+First Class|	2|
+Second Class|	3|
+Standard Class|	5|
 
+![page4](https://github.com/sohang05/Portfolio-Projects/assets/73344291/95ae5221-863d-486a-80ac-a51725a3222a)
 
 ### RFM Calculation
 
@@ -198,4 +213,4 @@ FROM RFM_Final f
 JOIN [segment_score] s ON f.RFM_Overall = s.Scores
 ;
 ```
-
+![page7](https://github.com/sohang05/Portfolio-Projects/assets/73344291/0faff7f0-7cd1-4c9e-95bf-a9fe37501b1f)
