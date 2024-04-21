@@ -9,7 +9,7 @@ Create Database customer_segmentation;
 USE customer_segmentation;
 ```
 
-**First, we find the total number of orders**
+**Let's find the total number of orders**
 ```sql
 Select count([Order id]) as Order_count
 from sales_data;
@@ -57,6 +57,7 @@ Home Office|	429653.1485	|1783|
 
 *We can see from the results that Consumer segment has the most orders as well as the highest sales*
 
+
 **Age wise sales analysis**
 
 ```sql
@@ -69,10 +70,11 @@ Group By (Age)
 Order By Orders DESC
 ;
 ```
-![image](https://github.com/sohang05/Portfolio-Projects/assets/73344291/1da28d81-e4ed-4268-9ff4-750dbbba3db9)
 
------**** Year wise sales analysis
 
+**Year wise sales analysis**
+
+```sql
 Select Distinct(year([Order date]))as Year,round(sum(sales),2) as Sales, round(sum(profit),2) as Profit
 from  customer_data
 join sales_data
@@ -81,10 +83,19 @@ customer_data.[Customer ID] = sales_data.[Customer ID]
 Group By year([Order Date])
 Order By Profit DESC
 ;
+```
+Year	|Sales	|Profit|
+------|--------|------|
+2017|	733215.26	|93439.27|
+2016|	609205.6	|81795.17|
+2015|	470532.51	|61618.6|
+2014|	484247.5	|49543.97|
+
+*Year 2017 and 2016 are the most profitable years while 2014 is the least profitable*
 
 
-------***** State City and Region wise analysis
-
+**Geographical Sales analysis**
+```sql
 Select [State], round(sum(sales),2) as Sales, count([Order ID]) as Orders
 from  customer_data
 join sales_data
@@ -93,16 +104,11 @@ customer_data.[Customer ID] = sales_data.[Customer ID]
 Group By [State]
 Order By Orders DESC
 ;
+```
 
-Select [City], round(sum(sales),2) as Sales, count([Order ID]) as Orders
-from  customer_data
-join sales_data
-on 
-customer_data.[Customer ID] = sales_data.[Customer ID]
-Group By [City]
-Order By Orders DESC
-;
 
+
+```sql
 Select [Region], round(sum(sales),2) as Sales, count([Order ID]) as Orders
 from  customer_data
 join sales_data
@@ -111,11 +117,12 @@ customer_data.[Customer ID] = sales_data.[Customer ID]
 Group By [Region]
 Order By Orders DESC
 ;
+```
 
 
+**Customer with most orders**
 
--------Customer with most orders
-
+```sql
 Select [Customer Name],Segment,round(sum(sales),2) as Sales, count([Order ID]) as Orders
 from  customer_data
 join sales_data
@@ -124,15 +131,10 @@ customer_data.[Customer ID] = sales_data.[Customer ID]
 Group By [Customer Name],Segment
 Order By Orders DESC
 ;
+```
 
-
------MOst Ordered Product
-Select distinct(([Product ID])), count([Order id]) as Orders
-from sales_data
-group by [Product ID]
-order by Orders DESC;
-
----- Average Days required to ship a product
+**Average Days required to ship a product**
+```sql
 Select [City],
 AVG(DATEDIFF(DAY,[Order Date],[Ship Date])) as days_for_product_delivery
 from  customer_data
@@ -141,7 +143,10 @@ on
 customer_data.[Customer ID] = sales_data.[Customer ID]
 Group By [City]
 Order By days_for_product_delivery ASC;
+```
 
+**Most Popular shipping mode among customers**
+```sql
 Select [Ship Mode],
 AVG(DATEDIFF(DAY,[Order Date],[Ship Date])) as avg_days_for_product_delivery
 from  customer_data
@@ -150,10 +155,12 @@ on
 customer_data.[Customer ID] = sales_data.[Customer ID]
 Group By [Ship Mode]
 Order By avg_days_for_product_delivery ASC;
+```
 
 
+### RFM Calculation
 
-----------------RFM Calculation
+```sql
 WITH RFM_Base 
 AS
 (
@@ -189,5 +196,6 @@ FROM RFM_Score
 SELECT f.*, s.Segment
 FROM RFM_Final f
 JOIN [segment_score] s ON f.RFM_Overall = s.Scores
-; 
+;
+```
 
