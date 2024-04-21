@@ -92,7 +92,7 @@ Year	|Sales	|Profit|
 2015|	470532.51	|61618.6|
 2014|	484247.5	|49543.97|
 
-*Year 2017 and 2016 are the most profitable years while 2014 is the least profitable*
+*Year 2017 and 2016 are the most profitable years, while 2014 and February month has been the least profitable year and month*
 
 ![page5 (2)](https://github.com/sohang05/Portfolio-Projects/assets/73344291/c053f34a-da17-44bf-a036-ea9485459aed)
 ![page5 (3)](https://github.com/sohang05/Portfolio-Projects/assets/73344291/4f97830c-d1a2-470d-9b42-8331a3908f5b)
