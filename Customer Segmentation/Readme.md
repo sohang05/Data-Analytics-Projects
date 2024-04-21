@@ -15,3 +15,8 @@ Precision improves marketing with personalized messages, better conversions, low
 * To carry out segmentation from RFM scores
 * To carry out segment analysis
 * To determine which customers to target from our new customer list
+
+### TOOLS USED: 
+ * SQL
+ * MS SQL SERVER
+ * EXCEL
