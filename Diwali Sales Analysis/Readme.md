@@ -54,6 +54,7 @@ Individuals working in the IT, Healthcare, and Aviation sectors engage in freque
 Food, clothing, electronics, and footwear are the most commonly purchased product categories.
 
 * **Highest Order Frequency:**
+  
 Vishakha, Shreyshi, Alejandro, and Sudevi are the individuals with the highest number of orders.
 
 
