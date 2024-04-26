@@ -27,3 +27,41 @@ Throughout the course of this project, the following key learnings were acquired
 ## Analysis
 The main analysis is carried out in Jupyter notebooks within the notebooks directory. Each notebook focuses on a specific aspect of the Diwali sales data analysis, such as data cleaning, exploratory data analysis, visualization, and recommendations.
 
+## Project findings :
+
+* **Shopping Behavior by Gender:**
+
+Females engage in more shopping in terms of both order frequency and sales amount compared to males.
+
+* **Shopping Behavior by Age:**
+  
+The age group between 26-35 tends to do the most shopping.
+Conversely, the age group of 0-17 engages in the least shopping.
+
+* **Regional Shopping Trends:**
+  
+Residents of Uttar Pradesh, Maharashtra, and Karnataka exhibit the highest shopping activity.
+
+* **Shopping Behavior by Marital Status and Gender:**
+  
+Unmarried females demonstrate the highest shopping activity compared to both married couples and unmarried males.
+* **Shopping Behavior by Industry:**
+
+Individuals working in the IT, Healthcare, and Aviation sectors engage in frequent shopping.
+
+* **Popular Product Categories:**
+
+Food, clothing, electronics, and footwear are the most commonly purchased product categories.
+
+* **Highest Order Frequency:**
+Vishakha, Shreyshi, Alejandro, and Sudevi are the individuals with the highest number of orders.
+
+
+
+
+
+
+
+
+
+
