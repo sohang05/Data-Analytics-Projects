@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohan</h1>
-<h3 align="center">🌟 Journey Through Data</h3>
+<h3 align="right">🌟 Journey Through Data</h3>
 
 **Dive into my data analytics projects, where raw data morphs into compelling stories and insightful revelations.** Each project in this repository stands as a testament to my growing expertise and relentless passion for data analysis.
 
