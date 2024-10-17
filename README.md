@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohan</h1>
-## 🛤️ Journey Through Data
+## 🌟 Journey Through Data
 
-**Explore my data analytics projects, where raw data transforms into compelling stories and insightful revelations.** Each project in this repository showcases my evolving expertise and unrelenting passion for data analysis.
-
+**Dive into my data analytics projects, where raw data morphs into compelling stories and insightful revelations.** Each project in this repository stands as a testament to my growing expertise and relentless passion for data 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohang05&label=Profile%20views&color=0e75b6&style=flat" alt="sohang05" /> </p>
 
