@@ -1,12 +1,10 @@
-![Banner](https://github.com/sohang05/Portfolio-Projects/assets/73344291/9ba01c2b-e6ef-4227-8308-cb0e02332b50)
-
 <h1 align="center">Hi 👋, I'm Sohan</h1>
-<h3 align="center">A passionate individual aspiring to be a Data Analyst.</h3>
+<h3 align="center">This repository consists of some data analytics project that I have completed.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohang05&label=Profile%20views&color=0e75b6&style=flat" alt="sohang05" /> </p>
 
 ## Introduction
-Welcome to my data analyst portfolio repository! I'm **Sohan**, an enthusiastic and aspiring data analyst eager to embark on a journey in the world of data-driven insights. This repository serves as a showcase of my projects, skills, and growth as I develop my proficiency in data analysis.
+Welcome to my data analytics project repository! I'm **Sohan**, and this space is dedicated to showcasing my journey through data analytics. Here you'll find my projects, skills, and progress as I delve into the realm of data-driven insights. Come along for the ride as I explore, analyze, and uncover valuable insights from data.
 
 ## About Me
 I'm a recent graduate with a degree in B.E Mechanical Engineering. I'm passionate about translating raw data into meaningful narratives that drive informed decision-making.
